@@ -1,4 +1,4 @@
-# Text to Emotion Analysis
+# Figure to Speech
 
 ![Text to Emotion Analysis App](./src/assets/text-to-emotion.png)
 
